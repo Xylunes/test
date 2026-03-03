@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">无畏契约灵敏度</string>
+    <string name="accessibility_service_label">无畏契约灵敏度调节</string>
+    <string name="accessibility_service_description">用于拦截并调整无畏契约手游的触控灵敏度，包含腰射、开镜和陀螺仪三项独立调节。</string>
+</resources>

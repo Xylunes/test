@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ValorantSens" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF4655</item>
+        <item name="colorPrimaryVariant">#CC1A1A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#1A1A2E</item>
+        <item name="android:statusBarColor">#0F0F1E</item>
+    </style>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:layout_height="120dp">
+
+    <!-- 外圈光晕 -->
+    <View
+        android:layout_width="108dp"
+        android:layout_height="108dp"
+        android:layout_gravity="center"
+        android:background="@drawable/float_ball_glow"/>
+
+    <!-- 主球体 -->
+    <TextView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_gravity="center"
+        android:background="@drawable/float_ball_bg"
+        android:text="🎯"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:elevation="4dp"/>
+
+</FrameLayout>
